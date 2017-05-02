@@ -10,8 +10,14 @@ import java.util.List;
  */
 public class Conspect {
 
+    private final int TileSize = 20; // we need to change this number to get the best result
+
     private List<String> pureText;
     private List<Paragraph> paragraphs;
+
+    public static enum ThemeDefenitionMethod {
+        LSA, LDA, BAYES;
+    }
 
     Conspect(String path) throws IOException {
         BufferedReader reader;
@@ -28,7 +34,34 @@ public class Conspect {
         }
     }
 
+    private void lsaThemeDefenition() {
+
+    }
+
+    private void ldaThemeDefenition() {
+        System.out.println("LDA is not implemented yet");
+    }
+
+    private void bayesThemeDefenition() {
+        System.out.println("Bayes is not implemented yet");
+    }
+
+    void themeDefenition(ThemeDefenitionMethod method) {
+        switch(method) {
+            case LSA:
+                lsaThemeDefenition();
+                break;
+            case LDA:
+                ldaThemeDefenition();
+                break;
+            case BAYES:
+                bayesThemeDefenition();
+                break;
+        }
+    }
+
+    // text tiling here using Stanford CoreNLP
     void paragraphDevision() {
-        
+
     }
 }

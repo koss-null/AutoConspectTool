@@ -22,10 +22,12 @@ public class TheMotherOfDragons {
                 Conspect conspect = new Conspect(path);
 
                 conspect.paragraphDevision();
-                conspect.bayesThemeDefenition();
-                conspect.ldaThemeDefenition();
-                conspect.paragraphReformatting();
-                conspect.createWiki();
+                //conspect.bayesThemeDefenition();
+                //conspect.ldaThemeDefenition();
+                conspect.paragraphDevision();
+                conspect.themeDefenition(Conspect.ThemeDefenitionMethod.LSA);
+                //conspect.paragraphReformatting();
+                //conspect.createWiki();
 
                 break;
 
