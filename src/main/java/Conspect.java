@@ -24,7 +24,7 @@ public class Conspect {
         try {
             reader = new BufferedReader(new FileReader(path));
 
-            pureText = new ArrayList<>();
+            pureText = new ArrayList<String>();
             String line;
             while ((line = reader.readLine()) != null) {
                 pureText.add(line);
