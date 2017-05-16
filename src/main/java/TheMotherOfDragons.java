@@ -8,9 +8,7 @@ import com.datumbox.framework.core.machinelearning.classification.MultinomialNai
 import com.datumbox.framework.core.machinelearning.featureselection.ChisquareSelect;
 import com.datumbox.framework.core.machinelearning.modelselection.metrics.ClassificationMetrics;
 
-import java.io.File;
-import java.io.IOException;
-import java.io.InputStream;
+import java.io.*;
 import java.net.URI;
 import java.util.Arrays;
 import java.util.HashMap;
@@ -25,30 +23,14 @@ public class TheMotherOfDragons {
     private static final String makeConspect = "make-conspect";
     private static final String find = "find";
 
+    static final int AVEREGE_SENTENCE_LENGTH = 7;
+
     /*
         * args are:
         *   first: operation (find, make-conspect)
         *   second: string with path to conspect || search string
      */
     public static void main(String... args) throws IOException, URISyntaxException  {
-//        String issue = args[0];
-//
-//        if (issue.equals(makeConspect)) {
-//            String path = args[1];
-//            Conspect conspect = new Conspect(path);
-//
-//            conspect.paragraphDevision();
-//            //conspect.bayesThemeDefenition();
-//            //conspect.ldaThemeDefenition();
-//            conspect.paragraphDevision();
-//            conspect.themeDefenition(Conspect.ThemeDefenitionMethod.LSA);
-//            //conspect.paragraphReformatting();
-//            //conspect.createWiki();
-//
-//        } else {
-//            System.out.println("Sorry, I can't do this");
-//        }
-
 
         //Initialization
         //--------------
@@ -64,11 +46,39 @@ public class TheMotherOfDragons {
         //Reading Data
         //------------
         Map<Object, URI> datasets = new HashMap<>(); //The examples of each category are stored on the same file, one example per row.
-        //InputStream posUri = TheMotherOfDragons.class.getClassLoader().getResourceAsStream("rt-polarity.pos");
-        //InputStream negUri = TheMotherOfDragons.class.getClassLoader().getResourceAsStream("rt-polarity.neg");
-        datasets.put("positive", new File("rt-polarity.pos").toURI());
-        datasets.put("negative", new File("rt-polarity.neg").toURI());
 
+        BufferedReader reader = new BufferedReader(new FileReader("uboat.in"));
+
+        String s = "";
+
+        do {
+            if((s = reader.readLine()) == null) {
+                break;
+            }
+
+            StringBuilder sentence = new StringBuilder();
+
+            int cnt = 0;
+            Integer files = 0;
+            if (s.isEmpty()) {
+                break;
+            }
+            for (char c : s.toCharArray()) {
+                sentence.append(c);
+                if (c == ' ') {
+                    cnt++;
+                }
+                if (cnt % 7 == 0) {
+                    files++;
+                    cnt = 0;
+                    FileWriter out = new FileWriter(files.toString());
+                    out.write(sentence.toString());
+                    out.close();
+                    datasets.put(files.toString(), new File(files.toString()).toURI());
+                    sentence = new StringBuilder();
+                }
+            }
+        } while (s != null && s.length() != 0);
 
 
         //Setup Training Parameters
@@ -107,16 +117,29 @@ public class TheMotherOfDragons {
         ClassificationMetrics vm = textClassifier.validate(datasets);
 
         //Classify a single sentence
-        String sentence = "stupid Datumbox! not is";
-        Record r = textClassifier.predict(sentence);
+        reader.close();
+        reader = new BufferedReader(new FileReader("uboat.in"));
+        do {
+            s = reader.readLine();
+            if (s.length() == 0) {
+                break;
+            }
+            StringBuilder sentence = new StringBuilder();
 
-        System.out.println("Classifing sentence: \""+sentence+"\"");
-        System.out.println("Predicted class: "+r.getYPredicted());
-        System.out.println("Probability: "+r.getYPredictedProbabilities().get(r.getYPredicted()));
+            for (char c : s.toCharArray()) {
+                sentence.append(c);
+                if (c == '.' || c == '!' || c == '?') {
+                    Record r = textClassifier.predict(sentence.toString());
+                    System.out.println("Classifing sentence: \"" + sentence.toString() + "\"");
+                    System.out.println("Predicted class: " + r.getYPredicted());
+                    System.out.println("Probability: " + r.getYPredictedProbabilities().get(r.getYPredicted()));
 
-        System.out.println("Classifier Accuracy: "+vm.getAccuracy());
-
-
+                    System.out.println("Classifier Accuracy: "+vm.getAccuracy());
+                    System.out.println("*****************");
+                    sentence = new StringBuilder();
+                }
+            }
+        } while (s.length() != 0);
 
         //Clean up
         //--------
