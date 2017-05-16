@@ -8,7 +8,9 @@ import com.datumbox.framework.core.machinelearning.classification.MultinomialNai
 import com.datumbox.framework.core.machinelearning.featureselection.ChisquareSelect;
 import com.datumbox.framework.core.machinelearning.modelselection.metrics.ClassificationMetrics;
 
+import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
 import java.net.URI;
 import java.util.Arrays;
 import java.util.HashMap;
@@ -62,8 +64,10 @@ public class TheMotherOfDragons {
         //Reading Data
         //------------
         Map<Object, URI> datasets = new HashMap<>(); //The examples of each category are stored on the same file, one example per row.
-        datasets.put("positive", TheMotherOfDragons.class.getClassLoader().getResource("datasets/sentiment-analysis/rt-polarity.pos").toURI());
-        datasets.put("negative", TheMotherOfDragons.class.getClassLoader().getResource("datasets/sentiment-analysis/rt-polarity.neg").toURI());
+        //InputStream posUri = TheMotherOfDragons.class.getClassLoader().getResourceAsStream("rt-polarity.pos");
+        //InputStream negUri = TheMotherOfDragons.class.getClassLoader().getResourceAsStream("rt-polarity.neg");
+        datasets.put("positive", new File("rt-polarity.pos").toURI());
+        datasets.put("negative", new File("rt-polarity.neg").toURI());
 
 
 
@@ -103,7 +107,7 @@ public class TheMotherOfDragons {
         ClassificationMetrics vm = textClassifier.validate(datasets);
 
         //Classify a single sentence
-        String sentence = "Datumbox is amazing!";
+        String sentence = "stupid Datumbox! not is";
         Record r = textClassifier.predict(sentence);
 
         System.out.println("Classifing sentence: \""+sentence+"\"");
