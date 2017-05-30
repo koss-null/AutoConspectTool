@@ -2,13 +2,224 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf62f2cc-dc56-44fc-958e-6d44858889cd" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/100" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/101" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/102" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/103" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/104" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/105" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/106" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/107" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/108" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/109" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/110" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/111" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/112" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/113" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/114" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/115" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/116" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/117" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/118" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/119" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/120" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/121" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/122" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/123" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/124" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/125" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/126" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/127" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/128" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/129" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/130" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/131" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/132" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/133" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/134" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/135" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/136" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/137" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/138" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/139" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/140" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/141" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/142" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/143" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/144" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/145" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/146" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/147" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/148" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/149" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/150" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/151" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/152" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/153" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/154" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/155" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/156" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/157" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/158" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/159" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/160" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/161" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/162" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/163" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/164" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/165" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/166" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/167" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/168" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/169" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/170" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/171" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/172" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/173" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/174" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/175" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/176" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/177" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/178" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/179" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/180" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/181" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/182" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/183" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/184" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/185" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/186" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/187" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/188" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/189" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/190" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/191" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/192" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/193" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/194" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/195" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/196" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/197" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/198" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/199" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/200" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/201" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/202" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/203" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/204" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/205" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/206" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/207" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/208" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/209" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/210" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/211" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/24" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/25" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/26" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/27" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/28" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/29" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/30" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/31" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/32" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/33" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/34" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/35" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/36" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/37" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/38" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/39" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/40" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/41" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/42" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/43" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/44" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/45" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/46" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/47" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/48" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/50" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/51" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/52" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/53" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/54" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/55" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/56" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/57" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/58" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/59" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/60" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/61" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/62" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/63" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/65" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/66" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/67" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/68" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/69" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/70" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/71" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/72" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/74" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/75" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/76" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/77" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/78" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/79" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/80" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/81" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/82" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/83" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/84" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/85" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/86" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/87" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/88" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/89" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/90" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/91" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/92" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/93" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/94" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/95" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/96" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/97" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/98" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/99" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoConspectTool-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/AutoConspectTool-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/AutoConspectTool-1.0-SNAPSHOT-shaded.jar" afterPath="$PROJECT_DIR$/target/AutoConspectTool-1.0-SNAPSHOT-shaded.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TheMotherOfDragons.class" afterPath="$PROJECT_DIR$/target/classes/TheMotherOfDragons.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/original-AutoConspectTool-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/original-AutoConspectTool-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/TheMotherOfDragons.java" afterPath="$PROJECT_DIR$/src/main/java/TheMotherOfDragons.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/texts/uboat.in" afterPath="$PROJECT_DIR$/uboat.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uboat.in" afterPath="$PROJECT_DIR$/uboat.in" />
     </list>
     <ignored path="AutoConspectTool.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +244,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-391">
+            <state relative-caret-position="0">
               <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding />
             </state>
@@ -60,14 +271,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TheMotherOfDragons.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TheMotherOfDragons.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TheMotherOfDragons.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+            <state relative-caret-position="582">
+              <caret line="152" column="18" selection-start-line="152" selection-start-column="18" selection-end-line="152" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="result" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/result">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="122" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/122">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,8 +316,8 @@
       <file leaf-file-name="uboat.in" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uboat.in">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="94" column="87" selection-start-line="94" selection-start-column="87" selection-end-line="94" selection-end-column="87" />
+            <state relative-caret-position="225">
+              <caret line="110" column="297" selection-start-line="110" selection-start-column="297" selection-end-line="110" selection-end-column="297" />
               <folding />
             </state>
           </provider>
@@ -111,6 +342,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Conspect.java" />
         <option value="$PROJECT_DIR$/dependency-reduced-pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/uboat.in" />
+        <option value="$PROJECT_DIR$/result" />
         <option value="$PROJECT_DIR$/src/main/java/TheMotherOfDragons.java" />
       </list>
     </option>
@@ -153,8 +386,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,7 +480,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,19 +492,19 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\learning\AutoConspectTool" />
-      <recent name="D:\learning\AutoConspectTool\src\main\recourses" />
-      <recent name="D:\learning\AutoConspectTool\src\main\resources" />
-      <recent name="D:\learning\AutoConspectTool\src\main\java" />
-      <recent name="D:\learning\AutoConspectTool\my-app\src\main\java\com\wiki\app" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\learning\AutoConspectTool" />
       <recent name="D:\learning\AutoConspectTool\recourses" />
       <recent name="D:\learning\AutoConspectTool\src\main\resources" />
       <recent name="D:\learning\AutoConspectTool\src\main\java" />
       <recent name="D:\learning\AutoConspectTool\texts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\learning\AutoConspectTool" />
+      <recent name="D:\learning\AutoConspectTool\src\main\recourses" />
+      <recent name="D:\learning\AutoConspectTool\src\main\resources" />
+      <recent name="D:\learning\AutoConspectTool\src\main\java" />
+      <recent name="D:\learning\AutoConspectTool\my-app\src\main\java\com\wiki\app" />
     </key>
   </component>
   <component name="RunManager" selected="Maven.Unnamed">
@@ -404,22 +637,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -465,70 +682,6 @@
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
       <method />
     </configuration>
     <configuration default="false" name="Unnamed" type="MavenRunConfiguration" factoryName="Maven">
@@ -592,7 +745,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -601,23 +754,23 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3376206" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3762058" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3376206" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36120042" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21108742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20948827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -632,7 +785,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -640,344 +795,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Conspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-          <folding>
-            <element signature="e#1033#1034#0" expanded="false" />
-            <element signature="e#1097#1098#0" expanded="false" />
-            <element signature="e#1140#1141#0" expanded="false" />
-            <element signature="e#1206#1207#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Document.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#483#484#0" expanded="false" />
-            <element signature="e#511#512#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#593#594#0" expanded="false" />
-            <element signature="e#628#629#0" expanded="false" />
-            <element signature="e#659#660#0" expanded="false" />
-            <element signature="e#707#708#0" expanded="false" />
-            <element signature="e#747#748#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TheMotherOfDragons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uboat.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="94" column="87" selection-start-line="94" selection-start-column="87" selection-end-line="94" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui/page_template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui/wiki.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2159">
-          <caret line="127" column="27" selection-start-line="127" selection-start-column="6" selection-end-line="127" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Conspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1033#1034#0" expanded="false" />
-            <element signature="e#1097#1098#0" expanded="false" />
-            <element signature="e#1140#1141#0" expanded="false" />
-            <element signature="e#1206#1207#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-app/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Document.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#483#484#0" expanded="false" />
-            <element signature="e#511#512#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#593#594#0" expanded="false" />
-            <element signature="e#628#629#0" expanded="false" />
-            <element signature="e#659#660#0" expanded="false" />
-            <element signature="e#707#708#0" expanded="false" />
-            <element signature="e#747#748#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TheMotherOfDragons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uboat.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="94" column="87" selection-start-line="94" selection-start-column="87" selection-end-line="94" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui/external.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui/page_template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui/wiki.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2159">
-          <caret line="127" column="27" selection-start-line="127" selection-start-column="6" selection-end-line="127" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Conspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1033#1034#0" expanded="false" />
-            <element signature="e#1097#1098#0" expanded="false" />
-            <element signature="e#1140#1141#0" expanded="false" />
-            <element signature="e#1206#1207#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-app/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Document.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#483#484#0" expanded="false" />
-            <element signature="e#511#512#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#593#594#0" expanded="false" />
-            <element signature="e#628#629#0" expanded="false" />
-            <element signature="e#659#660#0" expanded="false" />
-            <element signature="e#707#708#0" expanded="false" />
-            <element signature="e#747#748#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TheMotherOfDragons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uboat.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="94" column="87" selection-start-line="94" selection-start-column="87" selection-end-line="94" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui/external.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui/page_template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui/wiki.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui/dot.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui/external.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui/page_template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui/wiki.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2159">
-          <caret line="127" column="27" selection-start-line="127" selection-start-column="6" selection-end-line="127" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-app/src/main/java/com/wiki/app/App.java" />
-    <entry file="file://$PROJECT_DIR$/my-app/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Document.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#483#484#0" expanded="false" />
-            <element signature="e#511#512#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#593#594#0" expanded="false" />
-            <element signature="e#628#629#0" expanded="false" />
-            <element signature="e#659#660#0" expanded="false" />
-            <element signature="e#707#708#0" expanded="false" />
-            <element signature="e#747#748#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Conspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-          <folding>
-            <element signature="e#1033#1034#0" expanded="false" />
-            <element signature="e#1097#1098#0" expanded="false" />
-            <element signature="e#1140#1141#0" expanded="false" />
-            <element signature="e#1206#1207#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maven-compiler-plugin-3.6.1.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -990,77 +811,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rt-polarity.pos.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recourses/rt-polarity.neg.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/rt-polarity.neg.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rt-polarity.neg.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/rt-polarity.neg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/rt-polarity.pos">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uboat.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="94" column="87" selection-start-line="94" selection-start-column="87" selection-end-line="94" selection-end-column="87" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TheMotherOfDragons.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uboat.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="87" selection-start-line="94" selection-start-column="87" selection-end-line="94" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dependency-reduced-pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uboat.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="110" column="297" selection-start-line="110" selection-start-column="297" selection-end-line="110" selection-end-column="297" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1068,6 +889,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/122">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TheMotherOfDragons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="152" column="18" selection-start-line="152" selection-start-column="18" selection-end-line="152" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding />
         </state>
       </provider>

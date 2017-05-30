@@ -14,6 +14,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.net.URISyntaxException;
+import java.util.Set;
 
 /**
  * Created by d.kossovich on 20/04/2017.
@@ -49,36 +50,37 @@ public class TheMotherOfDragons {
 
         BufferedReader reader = new BufferedReader(new FileReader("uboat.in"));
 
-        String s = "";
+        String s = " ";
+        StringBuilder sentence = new StringBuilder();
+
+
+        Integer files = 0;
 
         do {
-            if((s = reader.readLine()) == null) {
+            if ((s = reader.readLine()) == null) {
                 break;
             }
 
-            StringBuilder sentence = new StringBuilder();
-
-            int cnt = 0;
-            Integer files = 0;
             if (s.isEmpty()) {
+                System.out.println("BREAKING!");
                 break;
             }
-            for (char c : s.toCharArray()) {
-                sentence.append(c);
-                if (c == ' ') {
-                    cnt++;
-                }
-                if (cnt % 7 == 0) {
-                    files++;
-                    cnt = 0;
-                    FileWriter out = new FileWriter(files.toString());
-                    out.write(sentence.toString());
-                    out.close();
-                    datasets.put(files.toString(), new File(files.toString()).toURI());
-                    sentence = new StringBuilder();
-                }
+
+            sentence.append(s);
+            sentence.delete(s.length() - 1, s.length());
+
+            System.out.println("Appended " + s);
+
+            if (s.charAt(s.length() - 1) == '$') {
+                System.out.println("NEW STR");
+                files++;
+                FileWriter out = new FileWriter(files.toString());
+                out.write(sentence.toString());
+                out.close();
+                datasets.put(files.toString(), new File(files.toString()).toURI());
+                sentence = new StringBuilder();
             }
-        } while (s != null && s.length() != 0);
+        } while (s.length() != 0);
 
 
         //Setup Training Parameters
@@ -119,28 +121,41 @@ public class TheMotherOfDragons {
         //Classify a single sentence
         reader.close();
         reader = new BufferedReader(new FileReader("uboat.in"));
+        sentence = new StringBuilder();
+
+        FileWriter out = new FileWriter("result");
+
+        files = 1;
         do {
             s = reader.readLine();
             if (s.length() == 0) {
                 break;
             }
-            StringBuilder sentence = new StringBuilder();
 
-            for (char c : s.toCharArray()) {
-                sentence.append(c);
-                if (c == '.' || c == '!' || c == '?') {
+            sentence.append(s);
+            sentence.delete(s.length() - 1, s.length());
+
+             if (s.charAt(s.length() - 1) == '$') {
+                    datasets.remove(files.toString());
+                    textClassifier = MLBuilder.create(trainingParameters, configuration);
+                    textClassifier.fit(datasets);
+                    textClassifier.save("SentimentAnalysis");
+
+                    datasets.put(files.toString(), new File(files.toString()).toURI());
+
                     Record r = textClassifier.predict(sentence.toString());
-                    System.out.println("Classifing sentence: \"" + sentence.toString() + "\"");
-                    System.out.println("Predicted class: " + r.getYPredicted());
-                    System.out.println("Probability: " + r.getYPredictedProbabilities().get(r.getYPredicted()));
+                    //out.write("Classifing sentence: \"" + sentence.toString() + "\"\n");
+                    out.write("C: " + r.getYPredicted() + "\n");
+                    files++;
+                    out.write("P: " + r.getYPredictedProbabilities().get(r.getYPredicted()) + "\n");
 
-                    System.out.println("Classifier Accuracy: "+vm.getAccuracy());
-                    System.out.println("*****************");
+                    out.write("A: " + vm.getAccuracy() + "\n");
+                    out.write("*****************\n");
                     sentence = new StringBuilder();
-                }
             }
         } while (s.length() != 0);
 
+        out.close();
         //Clean up
         //--------
 
